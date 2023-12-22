@@ -41,7 +41,7 @@
 		794264E12B350657003DA943 = {
 			isa = PBXGroup;
 			children = (
-				794264EC2B350657003DA943 /* wigggleit */,
+				794264EC2B350657003DA943 /* App */,
 				794264ED2B350657003DA943 /* Packages */,
 				794264EB2B350657003DA943 /* Products */,
 			);
@@ -55,7 +55,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		794264EC2B350657003DA943 /* wigggleit */ = {
+		794264EC2B350657003DA943 /* App */ = {
 			isa = PBXGroup;
 			children = (
 				794264F12B350657003DA943 /* WigggleitApp.swift */,
@@ -65,7 +65,7 @@
 				794264FC2B350659003DA943 /* Info.plist */,
 				794264F92B350659003DA943 /* Preview Content */,
 			);
-			path = wigggleit;
+			path = App;
 			sourceTree = "<group>";
 		};
 		794264ED2B350657003DA943 /* Packages */ = {
