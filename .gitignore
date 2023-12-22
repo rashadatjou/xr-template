@@ -2,4 +2,7 @@
 .DS_Store
 
 # Xcode
-xcuserdata/*
+xcuserdata/
+
+# Swift Package Manager
+.build/
