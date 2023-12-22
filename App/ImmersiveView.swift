@@ -1,9 +1,8 @@
-//
-//  ImmersiveView.swift
-//  wigggleit
-//
-//  Created by Wolf on 22/12/2023.
-//
+// ImmersiveView.swift
+// wigggleit
+// macOS(14.2) with Swift(5.0)
+// 22/12/2023
+// All rights reserved © Rashadatjou.
 
 import RealityKit
 import RealityKitContent
