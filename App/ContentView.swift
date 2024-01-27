@@ -1,5 +1,5 @@
 // ContentView.swift
-// wigggleit
+// template
 // macOS(14.2) with Swift(5.0)
 // 22/12/2023
 // All rights reserved © Rashadatjou.
